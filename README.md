@@ -1,6 +1,6 @@
 # web-search-engine
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
-
+[![Run on Repl.it](https://repl.it/badge/github/AnthonySigogne/web-search-engine)](https://repl.it/github/AnthonySigogne/web-search-engine)
 API - a simple web search engine.
 The goal is to index an infinite list of URLs (web pages), and then be able to quickly search relevant URLs against a query. This engine uses the ElasticSearch database.
 
